@@ -1,2 +1,2 @@
 # AMAZON-CLONE-TG
-we are cloning the AMAZON website using HTML and css.
+WE ARE CLONING THE AMAZON WEBSITE USING HTML AND CSS.
